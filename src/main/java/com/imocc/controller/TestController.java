@@ -13,6 +13,6 @@ public class TestController {
 	
 	@GetMapping("/helloworld2")
 	public String hello2() {
-		return "Spring boot test2!";
+		return "Spring boot testuyuy2!";
 	}
 }
