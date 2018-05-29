@@ -8,7 +8,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 自动装配 web 依赖的环境
 
 **/
-@SpringBootApplication
+@SpringBootApplication 
 public class ImoccApplication {
 
 	public static void main(String[] args) {
