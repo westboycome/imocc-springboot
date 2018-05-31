@@ -5,7 +5,7 @@ import javax.servlet.http.HttpServletRequest;
 import org.springframework.web.bind.annotation.ExceptionHandler;
 import org.springframework.web.bind.annotation.RestControllerAdvice;
 
-import com.imooc.pojjo.IMoocJSONResult;
+import com.imooc.pojo.IMoocJSONResult;
 
 
 @RestControllerAdvice

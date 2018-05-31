@@ -5,7 +5,7 @@ import org.springframework.stereotype.Controller;
 import org.springframework.ui.ModelMap;
 import org.springframework.web.bind.annotation.RequestMapping;
 
-import com.imooc.pojjo.Resources;
+import com.imooc.pojo.Resources;
 
 @Controller
 @RequestMapping("/ftl")

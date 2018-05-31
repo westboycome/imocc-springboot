@@ -9,7 +9,7 @@ import org.springframework.ui.ModelMap;
 import org.springframework.web.bind.annotation.PostMapping;
 import org.springframework.web.bind.annotation.RequestMapping;
 
-import com.imooc.pojjo.User;
+import com.imooc.pojo.User;
 
 @Controller
 @RequestMapping("/th")

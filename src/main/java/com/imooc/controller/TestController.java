@@ -5,8 +5,8 @@ import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RestController;
 
-import com.imooc.pojjo.LeeJSONResult;
-import com.imooc.pojjo.Resources;
+import com.imooc.pojo.LeeJSONResult;
+import com.imooc.pojo.Resources;
 
 @RestController
 public class TestController {

@@ -5,8 +5,8 @@ import java.util.Date;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
 
-import com.imooc.pojjo.LeeJSONResult;
-import com.imooc.pojjo.User;
+import com.imooc.pojo.LeeJSONResult;
+import com.imooc.pojo.User;
 
 @RestController //@RestController = @Controller + @ResponseBody
 @RequestMapping("/user")
