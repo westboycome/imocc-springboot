@@ -1,9 +1,9 @@
 Manifest-Version: 1.0
 Implementation-Title: imocc-springboot
 Implementation-Version: 0.0.1-SNAPSHOT
-Built-By: admin-lfh
+Built-By: yixun-lifuhei
 Implementation-Vendor-Id: com.imocc
-Build-Jdk: 1.8.0_161
+Build-Jdk: 1.8.0_102
 Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
  ot-starter-parent/imocc-springboot
 Created-By: Maven Integration for Eclipse
